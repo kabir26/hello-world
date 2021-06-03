@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-33519-hello-world": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Hello World",
+				"icon": "document-outline",
+				"description": "Hello World! Have a nice day!",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_33519_hello_wo_1"
+}
